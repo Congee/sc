@@ -1,0 +1,6 @@
+### Scala
+*.class
+*.log
+.metals/
+.bsp/
+.bloop/
